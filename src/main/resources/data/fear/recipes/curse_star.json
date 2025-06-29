@@ -1,0 +1,40 @@
+{
+  "type": "avaritia:shaped_table",
+  "category": "equipment",
+  "key": {
+    "C": {
+      "item": "avaritia:infinity_ingot"
+    },
+    "N": {
+      "item": "fear:curse_of_acceleration"
+    },
+    "X": {
+      "item": "fear:curse_of_bounding"
+    },
+    "V": {
+      "item": "fear:curse_of_movedisabled"
+    },
+    "A": {
+      "item": "minecraft:nether_star"
+    },
+    "B": {
+      "item": "avaritia:infinity_catalyst"
+    }
+  },
+  "pattern": [
+    "    X    ",
+    "    C    ",
+    "   CCC   ",
+    "  CCCCC  ",
+    "NCCCACCCV",
+    "  CCCCC  ",
+    "   CCC   ",
+    "    C    ",
+    "    B    "
+  ],
+  "result": {
+    "item": "fear:curse_star"
+  },
+  "show_notification": true,
+  "tier": 4
+}

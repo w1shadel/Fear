@@ -1,0 +1,37 @@
+{
+  "type": "avaritia:shaped_table",
+  "category": "equipment",
+  "key": {
+    "C": {
+      "item": "fear:terminus"
+    },
+    "N": {
+      "item": "fear:curse_of_null"
+    },
+    "I": {
+      "item": "fear:curse_star"
+    },
+    "A": {
+      "item": "fear:."
+    },
+    "B": {
+      "item": "avaritia:infinity_catalyst"
+    }
+  },
+  "pattern": [
+    "      NNN",
+    "     NIIN",
+    "    NIIIN",
+    "   NIIIN ",
+    "CCNIIIN  ",
+    " AACIN   ",
+    " ABAN    ",
+    " NAAC    ",
+    "N   C    "
+  ],
+  "result": {
+    "item": "fear:the_end_of_all_valine"
+  },
+  "show_notification": true,
+  "tier": 4
+}

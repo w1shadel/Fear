@@ -1,0 +1,25 @@
+{
+  "type": "avaritia:shaped_table",
+  "category": "equipment",
+  "key": {
+    "X": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "pattern": [
+    "   XXX   ",
+    "  X   X  ",
+    " X     X ",
+    "X       X",
+    "X       X",
+    "X       X",
+    " X     X ",
+    "  X   X  ",
+    "   XXX   "
+  ],
+  "result": {
+    "item": "fear:curse_of_acceleration"
+  },
+  "show_notification": true,
+  "tier": 4
+}

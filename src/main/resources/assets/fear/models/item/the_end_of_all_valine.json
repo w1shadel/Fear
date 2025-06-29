@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "fear:item/the_end_of_all_valine"
+  }
+}

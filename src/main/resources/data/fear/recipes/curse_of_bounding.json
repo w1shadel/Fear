@@ -1,0 +1,27 @@
+{
+  "type": "avaritia:shaped_table",
+  "category": "equipment",
+  "key": {
+    "N": {
+      "item": "avaritia:infinity_ingot"
+    },
+    "C": {
+      "item": "avaritia:crystal_matrix_ingot"
+    },
+    "X": {
+      "item": "integratedtunnels:part_exporter_world_item"
+    }
+  },
+  "pattern": [
+    "XXXXXXXXX",
+    "XCXCXCXCX",
+    "CNCNXNCNC",
+    "XCXCXCXCX",
+    "XXXXXXXXX"
+  ],
+  "result": {
+    "item": "fear:curse_of_bounding"
+  },
+  "show_notification": true,
+  "tier": 4
+}

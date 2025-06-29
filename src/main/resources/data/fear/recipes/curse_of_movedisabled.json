@@ -1,0 +1,31 @@
+{
+  "type": "avaritia:shaped_table",
+  "category": "equipment",
+  "key": {
+    "C": {
+      "item": "minecraft:chain"
+    },
+    "N": {
+      "item": "avaritia:crystal_matrix_ingot"
+    },
+    "X": {
+      "item": "avaritia:infinity_ingot"
+    }
+  },
+  "pattern": [
+    "CC C C CC",
+    "C C C C C",
+    "NNNNNNNNN",
+    "CCCCCCCCC",
+    "CNCNXNCNC",
+    "CCCCCCCCC",
+    "NNNNNNNNN",
+    "C C C C C",
+    "CC C C CC"
+  ],
+  "result": {
+    "item": "fear:curse_of_movedisabled"
+  },
+  "show_notification": true,
+  "tier": 4
+}

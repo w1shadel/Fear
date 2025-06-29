@@ -1,0 +1,28 @@
+{
+  "type": "avaritia:shaped_table",
+  "category": "equipment",
+  "key": {
+    "N": {
+      "item": "avaritia:infinity_ingot"
+    },
+    "X": {
+      "item": "avaritia:infinity_catalyst"
+    }
+  },
+  "pattern": [
+    "NNNNNNNNN",
+    "NXXXXXXXN",
+    "NNNNNNNNN",
+    "NXXXXXXXN",
+    "NNNNNNNNN",
+    "NXXXXXXXN",
+    "NNNNNNNNN",
+    "NXXXXXXXN",
+    "NNNNNNNNN"
+  ],
+  "result": {
+    "item": "fear:curse_of_null"
+  },
+  "show_notification": true,
+  "tier": 4
+}

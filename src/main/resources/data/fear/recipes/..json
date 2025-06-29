@@ -1,0 +1,23 @@
+{
+  "type": "avaritia:shaped_table",
+  "category": "equipment",
+  "key": {
+
+  },
+  "pattern": [
+    "         ",
+    "         ",
+    "         ",
+    "         ",
+    "         ",
+    "         ",
+    "         ",
+    "         ",
+    "         "
+  ],
+  "result": {
+    "item": "fear:."
+  },
+  "show_notification": true,
+  "tier": 4
+}
